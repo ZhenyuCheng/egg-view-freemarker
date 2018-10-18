@@ -14,7 +14,7 @@
   ],
   "dependencies": {
     "fast-ftl": "^1.9.0",
-    "freemarker": "^2.3.28"
+    "freemarker": "^1.4.2"
   },
   "devDependencies": {
     "autod": "^3.0.0",
