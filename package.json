@@ -1,6 +1,6 @@
 {
   "name": "egg-view-freemarker",
-  "version": "1.1.1",
+  "version": "1.1.2",
   "description": "freemaker egg view plugin",
   "eggPlugin": {
     "name": "freemarker"
