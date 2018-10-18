@@ -13,7 +13,8 @@
     "freemaker"
   ],
   "dependencies": {
-    "freemarker": "^1.4.2"
+    "fast-ftl": "^1.9.0",
+    "freemarker": "^2.3.28"
   },
   "devDependencies": {
     "autod": "^3.0.0",
