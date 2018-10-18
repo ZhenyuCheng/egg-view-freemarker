@@ -39,21 +39,22 @@
     "autod": "autod"
   },
   "files": [
-    "app.js",
-    "agent.js",
-    "config"
+    "config",
+    "app",
+    "lib",
+    "app.js"
   ],
   "ci": {
     "version": "8, 9"
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/eggjs/egg-view-freemarker.git"
+    "url": "git+https://github.com/ZhenyuCheng/egg-view-freemarker.git"
   },
   "bugs": {
-    "url": "https://github.com/eggjs/egg/issues"
+    "url": "https://github.com/ZhenyuCheng/egg/issues"
   },
-  "homepage": "https://github.com/eggjs/egg-view-freemarker#readme",
+  "homepage": "https://github.com/ZhenyuCheng/egg-view-freemarker#readme",
   "author": "chengzhenyu@corp.netease.com",
   "license": "MIT"
 }
